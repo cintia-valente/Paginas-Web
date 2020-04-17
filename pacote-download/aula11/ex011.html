@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div#res {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>País de Origem</h1>
+    País: <input type="text" name="txtp" id="txtp">
+    <input type="button" value="verificar" onclick="cadastrar()">
+    <div id="res">Origem</div>
+    <script>
+        function cadastrar() {
+            var p = document.getElementById('txtp')
+            var res = document.getElementById('res')
+            var pais = p.value
+            res.innerHTML = `<p>Vivendo em <strong>${pais}</strong></p>`
+
+            if (pais == 'BRASIL') {
+                res.innerHTML += '<p>Você é Brasileira!</p>'
+            } else {
+                res.innerHTML += '<p>Você é Estrangeira!</p>'
+            }
+        }
+    </script>
+</body>
+</html>
