@@ -3,7 +3,7 @@
 Exercícios práticos do curso de JavaScript do canal Curso em Vídeo. 
 Páginas web interativas utilizando JavaScript, HTML5, CSS e exercícios envolvendo assuntos como tratamento de dados, operadores, DOM, condições, repetições, variáveis compostas e funções utilizando Node.js.
 
-<h1>Captura de telas</h1>
+<h1>Captura de telas interativas</h1>
 
 ![10](https://user-images.githubusercontent.com/38113015/81894273-c2d2b800-9585-11ea-97b9-13a82f260e4e.png)
 
