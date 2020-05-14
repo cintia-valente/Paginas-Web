@@ -1,4 +1,4 @@
-##**Descrição**
+<h1>Descrição</h1>
 
 Exercícios práticos do curso de JavaScript do canal Curso em Vídeo. 
 Páginas web interativas utilizando JavaScript, HTML5, CSS e exercícios envolvendo assuntos como tratamento de dados, operadores, DOM, condições, repetições, variáveis compostas e funções utilizando Node.js.
