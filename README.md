@@ -13,7 +13,7 @@ Páginas web interativas utilizando JavaScript, HTML5, CSS e exercícios envolve
 
 ![7](https://user-images.githubusercontent.com/38113015/81894296-ca925c80-9585-11ea-99ea-ece0962d9208.png)
 
-![6](https://user-images.githubusercontent.com/38113015/81894300-ccf4b680-9585-11ea-9350-e76d618f1433.png)
+![6](https://user-images.githubusercontent.com/38113015/81895928-cc5e1f00-9589-11ea-80b0-51973c3268b2.png)
 
 ![5](https://user-images.githubusercontent.com/38113015/81894303-cfefa700-9585-11ea-9315-f21d2601b8d9.png)
 
