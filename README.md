@@ -24,17 +24,23 @@ Exercícios práticos e Páginas web interativas do curso de JavaScript, do cana
 
 ![1](https://user-images.githubusercontent.com/38113015/81894331-dd0c9600-9585-11ea-9c1d-380e3c38e31e.png)
 
-<h1>Execução dos exercícios javascript</h1>
-<ul>Em um terminal execute o comando <b>node "nome do arquivo".js</b></ul>
-
-<h1>Execução das páginas web</h1>
+<h1>Execução</h1>
 <ul>
-  <li>Instale a extensão <b>Watch in Chrome</b> no navegador Google Chrome</li>
-  https://marketplace.visualstudio.com/items?itemName=sneezry.watch-in-chrome
-  <li>No Visual Studio Code abra o arquivo que deseja executar</li>
-  <li>Pressione Ctrl+ Shift+ P, digite e execute Watch in Chrome</li>
-  <li>A página web será aberta e atualizada automaticamente no Google Chrome</li>
+    <li><b>Execução dos exercícios javascript</b></li>
+     <ul>
+       <li>Em um terminal execute o comando <b>node "nome do arquivo".js</li>
+     </ul>
+    
+  <li><b>Execução das páginas web</b></li>
+  <ul>
+    <li>Instale a extensão <b>Watch in Chrome</b> no navegador Google Chrome</li>
+    https://marketplace.visualstudio.com/items?itemName=sneezry.watch-in-chrome
+    <li>No Visual Studio Code abra o arquivo que deseja executar</li>
+    <li>Pressione Ctrl+ Shift+ P, digite e execute Watch in Chrome</li>
+    <li>A página web será aberta e atualizada automaticamente no Google Chrome</li>
+  </ul>
 </ul>
+
 
 <h1>Link do curso</h1>
 https://www.youtube.com/watch?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1
