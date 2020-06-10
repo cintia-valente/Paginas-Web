@@ -1,6 +1,6 @@
 <h1>Descrição</h1>
 
-Exercícios práticos e Páginas web interativas do curso de JavaScript, do canal Curso em Vídeo. Contém páginas web desenvolvidas em JavaScript, HTML5 e CSS, além de exercícios resolvidos, envolvendo assuntos como tratamento de dados, operadores, DOM, condições, repetições, variáveis compostas e funções utilizando Node.js.
+<b>Exercícios práticos</b> e <b>Páginas web</b> interativas do curso de JavaScript, do canal Curso em Vídeo. Contém páginas web desenvolvidas em <b>JavaScript, HTML5 e CSS</b>, além de exercícios resolvidos, envolvendo assuntos como tratamento de dados, operadores, DOM, condições, repetições, variáveis compostas e funções utilizando <b>Node.js</b>.
 
 <h1>Captura de telas</h1>
 
@@ -26,11 +26,10 @@ Exercícios práticos e Páginas web interativas do curso de JavaScript, do cana
 
 <h1>Execução</h1>
 <ul>
-    <li><b>Execução dos exercícios javascript</b></li>
-     <ul>
-       <li>Em um terminal execute o comando <b>node "nome do arquivo".js</li>
-     </ul>
-    
+   <li><b>Execução dos exercícios javascript</b></li>
+   <ul>
+     <li>Em um terminal execute o comando <b>node "nome do arquivo".js</b></li>
+   </ul>
   <li><b>Execução das páginas web</b></li>
   <ul>
     <li>Instale a extensão <b>Watch in Chrome</b> no navegador Google Chrome</li>
