@@ -1,7 +1,6 @@
 <h1>Descrição</h1>
 
-Exercícios práticos do curso de JavaScript do canal Curso em Vídeo. 
-Páginas web interativas desenvolvidas em JavaScript, HTML5, CSS, contém também exercícios envolvendo assuntos como tratamento de dados, operadores, DOM, condições, repetições, variáveis compostas e funções utilizando a tecnologia Node.js.
+Exercícios práticos do curso de JavaScript do canal Curso em Vídeo e Páginas web interativas desenvolvidas em JavaScript, HTML5, CSS, contém também exercícios envolvendo assuntos como tratamento de dados, operadores, DOM, condições, repetições, variáveis compostas e funções utilizando a tecnologia Node.js.
 
 <h1>Captura de telas</h1>
 
@@ -30,7 +29,7 @@ Páginas web interativas desenvolvidas em JavaScript, HTML5, CSS, contém també
 
 <h1>Execução das páginas web</h1>
 <ul>
-  <li>Instale a extensão Watch in Chrome no navegador Google Chrome</li>
+  <li>Instale a extensão <b>Watch in Chrome</b> no navegador Google Chrome</li>
   https://marketplace.visualstudio.com/items?itemName=sneezry.watch-in-chrome
   <li>No Visual Studio Code abra o arquivo que deseja executar</li>
   <li>Pressione Ctrl+ Shift+ P, digite e execute Watch in Chrome</li>
