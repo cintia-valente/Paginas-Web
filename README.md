@@ -26,7 +26,7 @@
 
 <h1>Execução</h1>
 <ul>
-   <li> <h1>Execução dos exercícios javascript</h1></li>
+   <li><h1>Execução dos exercícios javascript</h1></li>
    <ul>
      <li>Em um terminal execute o comando <b>node "nome do arquivo".js</b></li>
    </ul>
