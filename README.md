@@ -32,8 +32,7 @@
    </ul>
   <li><b>Execução das páginas web</b></li>
   <ul>
-    <li>Instale a extensão <b>Watch in Chrome</b> no navegador Google Chrome</li>
-    https://marketplace.visualstudio.com/items?itemName=sneezry.watch-in-chrome
+    <li>Instale a extensão <b>Watch in Chrome</b> no Visual Studio Code clicando no ícone <b>Extensions</b>. Abrirá uma nova janela,             clique em <b>Install</b> e logo depois, na área de <b>Prerequisite</b>, clique no primeiro link abaixo, este link irá                   redirecionar para a página de instalação do plugin VS Code Watch in Chrome.</li>
     <li>No Visual Studio Code abra o arquivo que deseja executar</li>
     <li>Pressione Ctrl+ Shift+ P, digite e execute Watch in Chrome</li>
     <li>A página web será aberta e atualizada automaticamente no Google Chrome</li>
