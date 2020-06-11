@@ -31,7 +31,7 @@
      <li>Em um terminal execute o comando <b>node "nome do arquivo".js</b></li>
    </ul>
   <li><b>Execução das páginas web</b></li>
-         Para executá-las foi utilizado o editor <b>Visual Studio Code</b>, juntamente com a extensão <b>Watch in Chrome</b><br>
+         Para executá-las foi utilizado o editor <b>Visual Studio Code</b> e a extensão <b>Watch in Chrome</b></br>
    
   <ul>
     <li>Instale a extensão <b>Watch in Chrome</b> no <b>Visual Studio Code</b> clicando no ícone <b>Extensions</b>. Abrirá uma nova             janela, clique em <b>Install</b> e logo depois, na área de <b>Prerequisite</b>, clique no primeiro link abaixo, este link irá           redirecionar para a página de instalação do plugin VS Code Watch in Chrome.</li>
