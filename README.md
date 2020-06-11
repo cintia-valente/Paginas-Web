@@ -31,11 +31,12 @@
      <li>Em um terminal execute o comando <b>node "nome do arquivo".js</b></li>
    </ul>
   <li><b>Execução das páginas web</b></li>
+         Para executá-las foi utilizado o editor <b>Visual Studio Code</b>, juntamente com a extensão <b>Watch in Chrome</b>
   <ul>
-    <li>Instale a extensão <b>Watch in Chrome</b> no Visual Studio Code clicando no ícone <b>Extensions</b>. Abrirá uma nova janela,             clique em <b>Install</b> e logo depois, na área de <b>Prerequisite</b>, clique no primeiro link abaixo, este link irá                   redirecionar para a página de instalação do plugin VS Code Watch in Chrome.</li>
-    <li>No Visual Studio Code abra o arquivo que deseja executar</li>
-    <li>Pressione Ctrl+ Shift+ P, digite e execute Watch in Chrome</li>
-    <li>A página web será aberta e atualizada automaticamente no Google Chrome</li>
+    <li>Instale a extensão <b>Watch in Chrome</b> no <b>Visual Studio Code</b> clicando no ícone <b>Extensions</b>. Abrirá uma nova             janela, clique em <b>Install</b> e logo depois, na área de <b>Prerequisite</b>, clique no primeiro link abaixo, este link irá           redirecionar para a página de instalação do plugin VS Code Watch in Chrome.</li>
+    <li>No Visual Studio Code abra o arquivo que deseja executar.</li>
+    <li>Pressione Ctrl+ Shift+ P, digite e execute Watch in Chrome.</li>
+    <li>A página web será aberta e atualizada automaticamente no Google Chrome.</li>
   </ul>
 </ul>
 
