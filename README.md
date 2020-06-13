@@ -1,7 +1,3 @@
-<h1>Descrição</h1>
-
-<b>Exercícios práticos</b> e <b>Páginas web interativas</b> do curso de JavaScript, do canal Curso em Vídeo. Contém páginas web desenvolvidas em <b>JavaScript, HTML5 e CSS</b>, além de exercícios resolvidos, utilizando <b>Node.js</b>, envolvendo assuntos como tratamento de dados, operadores, DOM, condições, repetições, variáveis compostas e funções .
-
 <h1>Captura de telas</h1>
 
 ![10](https://user-images.githubusercontent.com/38113015/81894273-c2d2b800-9585-11ea-97b9-13a82f260e4e.png)
@@ -23,6 +19,10 @@
 ![3](https://user-images.githubusercontent.com/38113015/81894318-d5e58800-9585-11ea-9f3c-02170523fe88.png)
 
 ![2](https://user-images.githubusercontent.com/38113015/81894323-d847e200-9585-11ea-9d10-574c76151690.png)
+
+<h1>Descrição</h1>
+
+<b>Exercícios práticos</b> e <b>Páginas web interativas</b> do curso de JavaScript, do canal Curso em Vídeo. Contém páginas web desenvolvidas em <b>JavaScript, HTML5 e CSS</b>, além de exercícios resolvidos, utilizando <b>Node.js</b>, envolvendo assuntos como tratamento de dados, operadores, DOM, condições, repetições, variáveis compostas e funções.
 
 <h1>Execução</h1>
 <ul>
