@@ -28,11 +28,11 @@
 <ul>
    <li><h1>Execução dos exercícios javascript</h1></li>
    <ul>
-     <li>Em um terminal execute o comando <b>node "nome do arquivo".js</b></li>
+     Em um terminal execute o comando <b>node "nome do arquivo".js</b>
    </ul>
   <li><h1>Execução das páginas web</h1></li>
   <ul>
-     <li>Clique no arquivo .html, a página web será aberta.</li>
+     Clique no arquivo .html, a página web será aberta.
   </ul>
 </ul>
 
