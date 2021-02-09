@@ -31,6 +31,7 @@
      <li>Em um terminal execute o comando <b>node "nome do arquivo".js</b></li>
    </ul>
   <li><h1>Execução das páginas web</h1> 
+  <ul>
        Clique no arquivo .html, a página web será aberta.</li>
   </ul>
 </ul>
