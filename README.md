@@ -32,7 +32,7 @@
    </ul>
   <li><h1>Execução das páginas web</h1></li>
   <ul>
-     Clique no arquivo .html, a página web será aberta.
+     Clique no arquivo <b>.html</b>, a página web será aberta.
   </ul>
 </ul>
 
