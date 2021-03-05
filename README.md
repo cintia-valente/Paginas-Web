@@ -1,4 +1,4 @@
-<h1>Captura de telas</h1>
+<h1>Telas</h1>
 
 ![10](https://user-images.githubusercontent.com/38113015/81894273-c2d2b800-9585-11ea-97b9-13a82f260e4e.png)
 
