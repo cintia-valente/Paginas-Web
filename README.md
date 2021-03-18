@@ -1,3 +1,8 @@
+<img src="https://user-images.githubusercontent.com/38113015/111563671-2534b000-8777-11eb-8cca-2e0b88684641.jpg" width="60"><img src="https://user-images.githubusercontent.com/38113015/111563501-d7b84300-8776-11eb-822c-72787522cdc4.jpg" width="60">  
+<h1>Páginas WEB</h1>
+
+<b>Exercícios práticos</b> e <b>Páginas web interativas</b> do curso de JavaScript, do canal Curso em Vídeo. Contém páginas web desenvolvidas em <b>JavaScript, HTML5 e CSS</b>, além de exercícios resolvidos, utilizando <b>Node.js</b>, envolvendo assuntos como tratamento de dados, operadores, DOM, condições, repetições, variáveis compostas e funções.
+
 <h1>Telas</h1>
 
 ![10](https://user-images.githubusercontent.com/38113015/81894273-c2d2b800-9585-11ea-97b9-13a82f260e4e.png)
@@ -20,10 +25,6 @@
 
 ![2](https://user-images.githubusercontent.com/38113015/81894323-d847e200-9585-11ea-9d10-574c76151690.png)
 
-<h1>Descrição</h1>
-
-<b>Exercícios práticos</b> e <b>Páginas web interativas</b> do curso de JavaScript, do canal Curso em Vídeo. Contém páginas web desenvolvidas em <b>JavaScript, HTML5 e CSS</b>, além de exercícios resolvidos, utilizando <b>Node.js</b>, envolvendo assuntos como tratamento de dados, operadores, DOM, condições, repetições, variáveis compostas e funções.
-
 <h1>Execução</h1>
 <ul>
    <li><h1>Execução dos exercícios javascript</h1></li>
@@ -35,7 +36,6 @@
      Clique no arquivo <b>.html</b>, a página web será aberta.
   </ul>
 </ul>
-
 
 <h1>Link do curso</h1>
 https://www.youtube.com/watch?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1
