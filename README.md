@@ -25,13 +25,14 @@
 
 ![2](https://user-images.githubusercontent.com/38113015/81894323-d847e200-9585-11ea-9d10-574c76151690.png)
 
+# Execução das páginas web
+<ul>
+   <li>Clique no arquivo <b>.html</b>, a página web será aberta.</li>
+</ul>
+
 # Execução dos exercícios javascript
 <ul>
    <li>Em um terminal execute o comando <b>node "nome do arquivo".js</b></li>
-</ul>
-# Execução das páginas web
-<ul>
-  <li>Clique no arquivo <b>.html</b>, a página web será aberta.</li>
 </ul>
 
 # Link do curso
